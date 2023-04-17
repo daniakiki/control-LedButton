@@ -1,8 +1,8 @@
 void setup(){
     Serial.begin(9600);
-    ini program di f/led
+    ini program di f/led;
 }
 
 void loop(){
-    ini di program f/button
+    ini di program f/button;
 }
